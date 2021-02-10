@@ -39,7 +39,7 @@ function draw(){
 
     let v1 = createVector(500, 50)
     let mag = (l_intensity - r_intensity) * 250
-    let v2 = createVector(mag, 0)
+    let v2 = createVector(-mag, 0)
     drawArrow(v1, v2, 'black' )
 
     fill(58, 64, 90)
