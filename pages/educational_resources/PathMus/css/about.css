@@ -1,0 +1,9 @@
+.name, .credit{
+    display: inline;
+}
+.credit{
+    font-weight:500
+}
+.licence{
+    font-weight: 500
+}

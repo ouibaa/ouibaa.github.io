@@ -1,0 +1,58 @@
+.specimen-title{
+    margin: 10px auto;
+}
+.main-title{
+    font-size: 2.2rem;
+    font-weight: bold;
+}
+.alternate-title{
+    font-size: 1rem;
+    font-style: italic;
+}
+.descriptor{
+    display: inline;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+/* OSD */
+#openseadragon{
+    float: right;
+    margin: 70px 100px 0px 10px;
+    right: 50px;
+    width: 400px; 
+    height: 400px;
+}
+
+/* Specimen information containers */
+.category, .dept-no, .abbot-no{
+    display: inline
+}
+/* Patient information containers */
+.patient-information{
+    margin: 10px auto;
+}
+
+/* Specimen pathology containers */
+.specimen-pathology{
+    margin: 10px auto;
+}
+.macroscopic-container, .microscopic-container {
+    margin: 50x auto;
+}
+
+/* Radiology containers */
+.radiology{
+    margin: 10px auto;
+}
+
+.aethetic-separator{
+    height: 50px;
+}
+
+@media(max-width: 750px){
+    #openseadragon{
+        margin: auto auto;
+        float: none;
+        width: 100vw
+    }
+}
