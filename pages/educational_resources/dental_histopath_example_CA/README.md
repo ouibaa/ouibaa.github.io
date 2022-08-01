@@ -1,2 +1,0 @@
-# Condyloma Acuminatum H+E Stain
- Demonstration client-side ONLY application of Dental histopathology slide. Permission to host obtained from Dr Babak Sarrafpour from the University of Sydney . This application is simply a demonstration of OpenSeaDragon with navigation using a dental slide. This is for demonstration purposes ONLY, or for the development of a fuller-featured full-stack histology application.
